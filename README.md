@@ -4,8 +4,13 @@
 </head>
 <body style="background-color:F5F5F5">
 <div style="text-align: center;">
-<img src="scorsese.png" width="27%">
+<img src="scorsese.png" width="27%"> 
 </div>
+<table width="27%" bgcolor="#3D3C3A" align="center">
+<tr align="center">
+<td><h1 align="center"><font color="FFFFFF" face="Baskerville Old Face"><b>CQC</b><br>
+<i>Cinephiles Club</i></font></h1></td></tr>
+</table>
 <div style="text-align: center;">
 <img src="steve&robin.png" width="47%"> 
 </div>
